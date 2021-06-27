@@ -1,7 +1,7 @@
 module Main where
 
 
-main = putStrLn "Hello, World!"
+main = putStrLn "Hello, recursive functions!"
 
 zero :: [Int] -> [Int]
 zero [] = [0]
