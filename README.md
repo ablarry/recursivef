@@ -28,7 +28,7 @@ domains.
 * [stack](https://docs.haskellstack.org/en/stable/README/): a cross-platform program for developing Haskell projects
 ### Quickstart 
 ```shell
-ghci Main.hs
+ghci app/Main.hs
 ```
 ### Examples
 
